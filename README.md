@@ -22,11 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathalya-amorim&show_icons=true&locale=en&layout=compact" alt="nathalya-amorim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathalya-amorim&show_icons=true&locale=en" alt="nathalya-amorim" /></p>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathalya-Amorim&layout=compact&theme=dracula)](https://github.com/Nathalya-Amorim/github-readme-stats)
 
 
 
