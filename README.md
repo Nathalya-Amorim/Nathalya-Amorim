@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathalya-amorim" alt="nathalya-amorim" /></a> </p>
 
-- 🔭 I’m currently working on **Roku-FlashBack**
+🔭 I’m currently working on **Roku-FlashBack**
 
-- 📫 How to reach me **nathalyamorim87@gmail.com**
+ 📫 How to reach me **nathalyamorim87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
