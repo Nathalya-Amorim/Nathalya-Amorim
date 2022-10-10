@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nathalya Amorim</h1>
 <h3 align="center">A passionate frontend developer currently based in London, Ontario 🇨🇦<p align="left">
-<img src="https://komarev.com/ghpvc/?username=nathalya-amorim&label=Profile%20views&color=0e75b6&style=flat" alt="nathalya-amorim" /> </p>
+
 
 
 
@@ -9,7 +9,9 @@
 🌱 I’m currently learning **Flexbox,Boostrap**
 
 📫 How to reach me **nathalyamorim87@gmail.com**
-
+  
+  
+<img src="https://komarev.com/ghpvc/?username=nathalya-amorim&label=Profile%20views&color=0e75b6&style=flat" alt="nathalya-amorim" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
