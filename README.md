@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathalya Amorim</h1>
-<h3 align="center">A passionate frontend developer currently based in London, Ontario 🇨🇦<p align="left">
+<h3 align="center">A passionate web designer  currently based in London, Ontario 🇨🇦<p align="left">
 
 
 
